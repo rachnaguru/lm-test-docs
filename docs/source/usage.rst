@@ -24,7 +24,7 @@ The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
 or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
 will raise an exception.
 
-.. autoexception:: lumache.InvalidKindError
+.. autoexception:: lumache.invalidKindError
 
 For example:
 
