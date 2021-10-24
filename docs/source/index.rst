@@ -20,6 +20,8 @@ Guide
 
    license
    help
+   usage
+   api
 
 
 Indices and tables
