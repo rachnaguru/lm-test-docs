@@ -9,6 +9,8 @@ Welcome to Lightmatter Test Docs's documentation!
 Header 1
 ========
 
+.. code-block:: console
+
     print 'Hello`
     >> hello
 
